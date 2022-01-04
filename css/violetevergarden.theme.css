@@ -1,0 +1,19 @@
+/**
+* @name Violet Evergarden
+* @author suis
+* @version 1.0
+* @description A theme for Best Girl!
+*/
+
+@import url(https://jesuissuis.github.io/css/violet%20evergarden.css);
+
+/* url for custom fonts */
+@import url(https://jesuissuis.github.io/css/font-import.css);
+
+:root {
+  --background_url: url(https://raw.githubusercontent.com/jesuissuis/Violet-Evergarden/main/violet.jpg);
+  --user_popout_url: url(https://raw.githubusercontent.com/jesuissuis/Violet-Evergarden/main/violetevergarden.png);
+  --volume_knob_url: url(https://raw.githubusercontent.com/jesuissuis/Violet-Evergarden/main/violetchibitransparent100x100.png);
+  --banner_section_url: url(https://jesuissuis.github.io/files/Violet%20Evergarden.png);
+  --font: 'Tellsis';
+}

@@ -1,3 +1,7 @@
+::placeholder, body, button, input, select, textarea {
+  font-family: var(--font), sans-serif !important;
+}
+
 .app-2rEoOp {
   background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%,rgba(0, 0, 0, 0.598) 65%), var(--background_url);
   background-size: cover;
