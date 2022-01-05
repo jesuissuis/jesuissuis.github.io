@@ -2669,18 +2669,16 @@ svg.homeIcon-FuNwkv{
   margin-top: 5px !important;
 }
 
-/* .profileBanner-33-uE1, .banner-2QYc2d {
-  background: linear-gradient(44deg, rgba(0, 0, 0, .2)11%, rgba(0, 0, 0, .2) 11%), var(--background_url);
-} */
-
-/* .topSection-y3p-_D {
-  background: linear-gradient(44deg, rgba(0, 0, 0, .2)11%, rgba(0, 0, 0, .2) 11%), var(--banner_section_url);
-} */
-
 .banner-2QYc2d {
   background-image: var(--banner_section_url);
 }
 
-/* .profileBanner-33-uE1::before {
-  background: green !important;
-} */
+.channelIcon-1MN1lz {
+  margin-left: -12px;
+  margin-top: 2px;
+  background-color: rgba(0, 0, 0, .2);
+  background-size: 5px 5px 5px;
+}
+.iconMention-1_KJ_B {
+  margin-left: 8px;
+}
